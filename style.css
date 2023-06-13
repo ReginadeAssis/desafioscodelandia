@@ -1,0 +1,41 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.conteudo {
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding: 0 390px;
+  flex-direction: column;
+}
+
+body {
+  background-color: rgb(1, 18, 33);
+}
+
+#fonte {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.letras {
+  color: white;
+  margin: 20px;
+  padding: 0 42px;
+}
+
+.logo {
+  text-align: left;
+  color: rgb(27, 104, 172);
+  font-size: 50px;
+}
+
+.botao {
+  margin: 20px;
+  padding: 20px 10px;
+  border-radius: 0%;
+  background-color: rgb(9, 47, 81);
+  color: white;
+}
